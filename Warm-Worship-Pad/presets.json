@@ -1,0 +1,41 @@
+{
+"schemaVersion": 1,
+"presets": [
+{
+"id": "warm",
+"name": "Warm Worship",
+"settings": {
+"wave": "sine",
+"attack": 1.2,
+"decay": 0.5,
+"sustain": 0.8,
+"release": 2.5,
+"volume": -10
+}
+},
+{
+"id": "soft",
+"name": "Soft Atmosphere",
+"settings": {
+"wave": "triangle",
+"attack": 2,
+"decay": 0.8,
+"sustain": 0.7,
+"release": 3,
+"volume": -14
+}
+},
+{
+"id": "bright",
+"name": "Bright Worship",
+"settings": {
+"wave": "sine",
+"attack": 0.5,
+"decay": 0.4,
+"sustain": 0.9,
+"release": 1.8,
+"volume": -8
+}
+}
+]
+}
