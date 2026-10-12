@@ -1,0 +1,15 @@
+{
+"schemaVersion": 1,
+"id": "warm-worship-pad",
+"name": "Warm Worship Pad",
+"engine": "synth",
+"category": "Pads",
+"settings": {
+"wave": "sine",
+"attack": 1.2,
+"decay": 0.5,
+"sustain": 0.8,
+"release": 2.5,
+"volume": -10
+}
+}
