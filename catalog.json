@@ -1,4 +1,14 @@
 {
 "schemaVersion": 1,
-"instruments": []
+"instruments": [
+{
+"id": "warm-worship-pad",
+"name": "Warm Worship Pad",
+"label": "Warm Worship Pad",
+"category": "Pads",
+"version": "1.0.0",
+"description": "A warm, sustained synth pad designed for worship, prayer, and ambient music.",
+"packageUrl": "https://raw.githubusercontent.com/TonyBrianJackson/Bang/main/Warm-Worship-Pad/manifest.json"
+}
+]
 }
