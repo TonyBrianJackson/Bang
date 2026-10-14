@@ -1,0 +1,13 @@
+{
+"schemaVersion": 1,
+"id": "warm-worship-piano",
+"name": "Warm Worship Piano",
+"engine": "sampled",
+"category": "Piano",
+"samplePackageId": "warm-worship-piano-1_0_0",
+"settings": {
+"volume": -8,
+"attack": 0.01,
+"release": 0.8
+}
+}
