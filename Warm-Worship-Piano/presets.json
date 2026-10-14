@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "presets": [
+    {
+      "id": "warm-worship",
+      "name": "Warm Worship",
+      "settings": {
+        "attack": 0.05,
+        "decay": 0.3,
+        "sustain": 0.8,
+        "release": 1.5,
+        "volume": -8
+      }
+    },
+    {
+      "id": "soft-worship",
+      "name": "Soft Worship",
+      "settings": {
+        "attack": 0.2,
+        "decay": 0.5,
+        "sustain": 0.7,
+        "release": 2,
+        "volume": -12
+      }
+    },
+    {
+      "id": "gospel-piano",
+      "name": "Gospel Piano",
+      "settings": {
+        "attack": 0.01,
+        "decay": 0.2,
+        "sustain": 0.9,
+        "release": 0.8,
+        "volume": -6
+      }
+    },
+    {
+      "id": "ambient-piano",
+      "name": "Ambient Piano",
+      "settings": {
+        "attack": 0.4,
+        "decay": 0.6,
+        "sustain": 0.8,
+        "release": 3,
+        "volume": -10
+      }
+    }
+  ]
+}
