@@ -1,0 +1,46 @@
+{
+"schemaVersion": 1,
+"instrument": {
+"id": "warm-worship-piano",
+"name": "Warm Worship Piano",
+"version": "1.0.0",
+"engine": "sampled",
+"category": "Piano"
+},
+"files": [
+{
+"path": "instrument.json",
+"url": "https://raw.githubusercontent.com/TonyBrianJackson/Bang/main/Warm-Worship-Piano/instrument.json"
+},
+{
+"path": "presets.json",
+"url": "https://raw.githubusercontent.com/TonyBrianJackson/Bang/main/Warm-Worship-Piano/presets.json"
+}
+],
+"samplePackage": {
+"id": "warm-worship-piano-1_0_0",
+"version": "1.0.0",
+"samples": [
+{
+"note": "C3",
+"filename": "C3.mp3",
+"url": "https://raw.githubusercontent.com/TonyBrianJackson/Bang/main/Warm-Worship-Piano/samples/C3.mp3"
+},
+{
+"note": "C4",
+"filename": "C4.mp3",
+"url": "https://raw.githubusercontent.com/TonyBrianJackson/Bang/main/Warm-Worship-Piano/samples/C4.mp3"
+},
+{
+"note": "C5",
+"filename": "C5.mp3",
+"url": "https://raw.githubusercontent.com/TonyBrianJackson/Bang/main/Warm-Worship-Piano/samples/C5.mp3"
+},
+{
+"note": "G4",
+"filename": "G4.mp3",
+"url": "https://raw.githubusercontent.com/TonyBrianJackson/Bang/main/Warm-Worship-Piano/samples/G4.mp3"
+}
+]
+}
+}
